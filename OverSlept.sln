@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverSlept", "OverSlept\OverSlept.csproj", "{7DBA5E0A-83CD-4E31-B4FD-D7F2F09C7693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DBA5E0A-83CD-4E31-B4FD-D7F2F09C7693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBA5E0A-83CD-4E31-B4FD-D7F2F09C7693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBA5E0A-83CD-4E31-B4FD-D7F2F09C7693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBA5E0A-83CD-4E31-B4FD-D7F2F09C7693}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11BDE225-71A4-4EFA-B5F4-7922BD2056F4}
+	EndGlobalSection
+EndGlobal
